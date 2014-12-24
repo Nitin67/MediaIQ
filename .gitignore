@@ -1,0 +1,16 @@
+# compiled java classes
+*.class
+bin/
+
+# Maven/ant build dir
+target/
+bin/
+
+# eclipse specific files
+.project
+.classpath
+.settings
+
+# Deployment files
+*.jar
+
