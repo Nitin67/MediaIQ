@@ -1,0 +1,22 @@
+{
+	"op":"equal",
+	"lhs":{
+		"op":"add",
+		"lhs": 1,
+		"rhs": {
+			"op": "divide",
+			"lhs": "x",
+			"rhs": {
+				"op": "add",
+				"lhs": 3,
+				"rhs": {
+					"op": "multiply",
+					"lhs": "2",
+					"rhs": 5
+				}
+				
+			}
+		}
+	},
+	"rhs": 21
+}
